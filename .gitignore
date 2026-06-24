@@ -1,0 +1,35 @@
+# Build and generated files
+build/
+dist/
+*.class
+*.pyc
+*.swp
+
+# IDE-specific files
+.idea/
+.vscode/
+*.iml
+
+# Log files
+logs/
+*.log
+
+# Node.js dependencies
+node_modules/
+
+# Database files
+*.db
+*.sqlite
+
+# Environment-specific files
+venv
+.env
+.env.local
+.env.*.local
+
+# Other files
+*.bak
+*.tmp
+*.zip
+*.rar
+*.pdf
